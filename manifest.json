@@ -1,0 +1,19 @@
+{
+  "name": "Vigor Prime",
+  "short_name": "Vigor Prime",
+  "description": "Entrenamiento, nutrición, recuperación y progreso personal.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#08090c",
+  "theme_color": "#08090c",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
